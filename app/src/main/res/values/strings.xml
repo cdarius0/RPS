@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="you">You</string>
+    <string name="topb">TopBackground</string>
+    <string name="bottomb">BottomBackground</string>
+    <string name="eu">Eu</string>
+    <string name="euimg">Euimg</string>
+    <string name="android">Android</string>
+    <string name="androidimg">Androidimg</string>
+    <string name="eualeg">Eualeg</string>
+    <string name="piatra">Piatră</string>
+    <string name="hartie">Hârtie</string>
+    <string name="joaca">Joacă</string>
+    <string name="foarfeca">Foarfecă</string>
+    <string name="androidalege">androidalege</string>
+    <string name="scor">\t\t\t\t\t\tScor\nEu - 0\t Android - 0</string>
+</resources>
